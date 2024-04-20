@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Display.srcs/sources_1/new/bin2seg.vhd" \
+"../../../../Display.srcs/sources_1/new/clock_enable.vhd" \
+"../../../../Display.srcs/sources_1/new/driver.vhd" \
+"../../../../Display.srcs/sources_1/new/simple_counter.vhd" \
+"../../../../Display.srcs/sources_1/new/tb_driver.vhd" \
+
+# Do not sort compile order
+nosort
