@@ -41,7 +41,7 @@ PWM block is clocked by PWM_clock output. With the right clock and input from sw
 
 Demonstration video:
 
-https://github.com/eMBee-1/bpc-de1-project/assets/99298411/e831873c-3e98-4163-af17-55dc537e7f4e
+https://github.com/eMBee-1/bpc-de1-project/blob/main/Assets/DEMO-PWM.mp4
 
 ## References
 https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual
